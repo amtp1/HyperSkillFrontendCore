@@ -1,0 +1,29 @@
+type: edu
+files:
+- name: src/index.html
+  visible: true
+  text: |
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Document</title>
+    </head>
+    <body>
+
+    </body>
+    </html>
+  learner_created: false
+- name: test/test.js
+  visible: false
+  learner_created: false
+- name: src/main.js
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/14001#comment
+status: Solved
+feedback:
+  message: Well done! You've finished the project. Select a new project on <a href="https://hyperskill.org/projects">JetBrains
+    Academy</a> to continue learning.
+  time: "Sat, 11 Mar 2023 12:13:43 UTC"
+record: -1
